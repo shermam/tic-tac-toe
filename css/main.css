@@ -1,0 +1,14 @@
+td{
+    width: 150px;
+    height: 150px;
+    border: 10px solid green;
+}
+
+table{
+    margin: auto;
+}
+
+.clear{
+    margin: auto;
+    text-align: center;
+}
